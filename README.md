@@ -2,7 +2,9 @@
 
 [![Build Status](https://travis-ci.org/skovalyov/time-format.png?branch=master)](https://travis-ci.org/skovalyov/time-format)
 
-A simple method to create UIDs (unique identifiers).
+A simple method to format the difference between two timestamps.
+
+For more complex cases and flexibility use libraries like [Moment.js](http://momentjs.com/).
 
 # Installation
 
